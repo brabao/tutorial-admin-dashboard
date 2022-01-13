@@ -1,0 +1,11 @@
+{
+  "name": "tutorial-dashboard",
+  "version": "1.0.0",
+  "description": "Youtube Tutorial Dashboard CSS and Javascript",
+  "scripts": {
+    "start": "npx browser-sync start --server --files='**/*'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
